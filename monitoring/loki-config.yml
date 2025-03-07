@@ -1,0 +1,5 @@
+loki:
+  storage_config:
+    aws:
+      bucketnames: ["my-logs"]
+      endpoint: localhost
